@@ -6,10 +6,10 @@ app.use(cors());
 app.use(express.json());
 
 let products = [
-  { id: 1, name: "Headphones", price: 25, image: "/images/headphones.svg" },
-  { id: 2, name: "Phone Charger", price: 10, image: "/images/charger.svg" },
-  { id: 3, name: "USB Cable", price: 5, image: "/images/usb.svg" },
-  { id: 4, name: "Laptop Stand", price: 35, image: "/images/stand.svg" }
+  { id: 1, name: "Headphones", price: 25, image: "/images/apple-noise-cancelling-over-ear-MWW53AMA-front-angled.webp" },
+  { id: 2, name: "Phone Charger", price: 10, image: "/images/chargerrr.avif" },
+  { id: 3, name: "USB Cable", price: 5, image: "/images/1_54321__56923.jpg" },
+  { id: 4, name: "Laptop Stand", price: 35, image: "/images/71cOnHXOg9L.jpg" }
 ];
 
 // GET all products
