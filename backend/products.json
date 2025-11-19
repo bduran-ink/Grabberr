@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 29.99,
+    "category": "Electronics",
+    "description": "Noise-cancelling headphones.",
+    "image": "https://via.placeholder.com/150"
+  },
+  {
+    "id": 2,
+    "name": "Coffee Mug",
+    "price": 9.99,
+    "category": "Kitchen",
+    "description": "Simple ceramic mug.",
+    "image": "https://via.placeholder.com/150"
+  }
+]
